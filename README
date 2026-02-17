@@ -2,3 +2,9 @@
 qwertyuiopp
 
 This is from bug branch
+
+Objective - new-bug to be merged with main branch 
+            while conflicts exist
+            main -> new-bug
+            resolve conflicts
+            new-bug -> main
